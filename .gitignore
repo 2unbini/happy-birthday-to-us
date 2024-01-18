@@ -126,4 +126,7 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+### Secretes ###
+.secrets
+
 # End of https://www.toptal.com/developers/gitignore/api/flutter,dart,macos
